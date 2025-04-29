@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Polo Shirt",
+      "company": "Zara",
+      "rating": 4.2,
+      "price": 29.99,
+      "image": "/images/n1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vintage Denim Jacket",
+      "company": "Levi's",
+      "rating": 4.6,
+      "price": 79.99,
+      "image": "/images/n2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Regular Fit Jeans",
+      "company": "H&M",
+      "rating": 4.1,
+      "price": 44.99,
+      "image": "/images/n3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Premium Hoodie",
+      "company": "Nike",
+      "rating": 4.7,
+      "price": 64.99,
+      "image": "/images/n4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Elegant Formal Blazer",
+      "company": "Raymond",
+      "rating": 4.5,
+      "price": 119.99,
+      "image": "/images/n5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Sports Running Shoes",
+      "company": "Adidas",
+      "rating": 4.8,
+      "price": 74.99,
+      "image": "/images/n6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Casual Printed T-Shirt",
+      "company": "Puma",
+      "rating": 4.0,
+      "price": 24.99,
+      "image": "/images/n7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Luxury Leather Jacket",
+      "company": "Gucci",
+      "rating": 4.9,
+      "price": 249.99,
+      "image": "/images/n8.jpg"
+    }
+]

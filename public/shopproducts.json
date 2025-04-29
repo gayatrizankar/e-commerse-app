@@ -1,0 +1,164 @@
+[
+  {
+      "id": 1,
+      "name": "Vintage Denim Jacket",
+      "company": "Levi's",
+      "rating": 4.6,
+      "price": 79.99,
+      "image": "/images/n2.jpg",
+      "description": "A classic denim jacket with a vintage wash. Durable, stylish, and perfect for layering. Features button-up front and chest pockets."
+  },
+  {
+      "id": 2,
+      "name": "Classic Polo Shirt",
+      "company": "Zara",
+      "rating": 4.2,
+      "price": 29.99,
+      "image": "/images/n1.jpg",
+      "description": "Timeless polo shirt with a smart collar. Made from soft, breathable fabric. Perfect for casual and semi-formal occasions."
+  },
+  {
+      "id": 3,
+      "name": "Luxury Leather Jacket",
+      "company": "Gucci",
+      "rating": 4.9,
+      "price": 249.99,
+      "image": "/images/f8.jpg",
+      "description": "Premium leather jacket with a sleek design. Luxurious feel and tailored fit. Perfect for a stylish and bold statement."
+  },
+  {
+      "id": 4,
+      "name": "Sports Running Shoes",
+      "company": "Adidas",
+      "rating": 4.8,
+      "price": 74.99,
+      "image": "/images/f6.jpg",
+      "description": "High-performance running shoes with cushioned support. Lightweight design for all-day comfort. Provides excellent grip and durability."
+  },
+  {
+      "id": 5,
+      "name": "Premium Hoodie",
+      "company": "Nike",
+      "rating": 4.7,
+      "price": 64.99,
+      "image": "/images/n4.jpg",
+      "description": "Soft fleece hoodie for ultimate comfort. Features an adjustable hood and kangaroo pocket. Great for casual wear and workouts."
+  },
+  {
+      "id": 6,
+      "name": "Casual Printed T-Shirt",
+      "company": "Puma",
+      "rating": 4.0,
+      "price": 24.99,
+      "image": "/images/f7.jpg",
+      "description": "Trendy printed t-shirt for everyday fashion. Made from breathable cotton. Comfortable fit for all-day wear."
+  },
+  {
+      "id": 7,
+      "name": "Regular Fit Jeans",
+      "company": "H&M",
+      "rating": 4.1,
+      "price": 44.99,
+      "image": "/images/f3.jpg",
+      "description": "Classic denim jeans with a regular fit. Durable fabric with slight stretch for comfort. Pairs well with any casual outfit."
+  },
+  {
+      "id": 8,
+      "name": "Classic Polo Shirt",
+      "company": "Zara",
+      "rating": 4.2,
+      "price": 29.99,
+      "image": "/images/f1.jpg",
+      "description": "Elegant and versatile polo shirt. Soft cotton material for breathability. A perfect mix of comfort and style."
+  },
+  {
+      "id": 9,
+      "name": "Elegant Formal Blazer",
+      "company": "Raymond",
+      "rating": 4.5,
+      "price": 119.99,
+      "image": "/images/n5.jpg",
+      "description": "Sophisticated formal blazer with a tailored fit. Perfect for business meetings and special occasions. High-quality fabric for a premium feel."
+  },
+  {
+      "id": 10,
+      "name": "Sports Running Shoes",
+      "company": "Adidas",
+      "rating": 4.8,
+      "price": 74.99,
+      "image": "/images/n6.jpg",
+      "description": "Designed for maximum comfort and support. Breathable mesh upper and responsive cushioning. Ideal for running and training."
+  },
+  {
+      "id": 11,
+      "name": "Casual Printed T-Shirt",
+      "company": "Puma",
+      "rating": 4.0,
+      "price": 24.99,
+      "image": "/images/n7.jpg",
+      "description": "Soft cotton t-shirt with a stylish print. Perfect for a relaxed, casual look. Lightweight and comfortable for daily wear."
+  },
+  {
+      "id": 12,
+      "name": "Luxury Leather Jacket",
+      "company": "Gucci",
+      "rating": 4.9,
+      "price": 249.99,
+      "image": "/images/n8.jpg",
+      "description": "Sleek and stylish leather jacket with a premium finish. Tailored fit for a sophisticated look. A must-have for any wardrobe."
+  },
+  {
+      "id": 13,
+      "name": "Vintage Denim Jacket",
+      "company": "Levi's",
+      "rating": 4.6,
+      "price": 79.99,
+      "image": "/images/f2.jpg",
+      "description": "Classic denim jacket with a rugged feel. Features a button-up front and side pockets. Durable and stylish for everyday wear."
+  },
+  {
+      "id": 14,
+      "name": "Premium Hoodie",
+      "company": "Nike",
+      "rating": 4.7,
+      "price": 64.99,
+      "image": "/images/f4.jpg",
+      "description": "A cozy hoodie with a soft fleece lining. Adjustable hood and ribbed cuffs for a snug fit. Ideal for casual and sporty looks."
+  },
+  {
+      "id": 15,
+      "name": "Luxury Leather Jacket",
+      "company": "Gucci",
+      "rating": 4.9,
+      "price": 249.99,
+      "image": "/images/n8.jpg",
+      "description": "Exquisite craftsmanship and high-end leather. Stylish and warm, perfect for any occasion. Adds a bold touch to your outfit."
+  },
+  {
+      "id": 16,
+      "name": "Elegant Formal Blazer",
+      "company": "Raymond",
+      "rating": 4.5,
+      "price": 119.99,
+      "image": "/images/f5.jpg",
+      "description": "Tailored blazer for a polished look. High-quality fabric for long-lasting comfort. Ideal for formal events and office wear."
+  },
+  {
+      "id": 17,
+      "name": "Regular Fit Jeans",
+      "company": "H&M",
+      "rating": 4.1,
+      "price": 44.99,
+      "image": "/images/n3.jpg",
+      "description": "Everyday jeans with a comfortable regular fit. Soft stretch fabric for flexibility. A wardrobe essential for casual wear."
+  },
+  {
+      "id": 18,
+      "name": "Luxury Leather Jacket",
+      "company": "Gucci",
+      "rating": 4.9,
+      "price": 249.99,
+      "image": "/images/f8.jpg",
+      "description": "A timeless leather jacket crafted with premium material. Features a modern fit and stylish detailing. Elevate your fashion game effortlessly."
+  }
+]

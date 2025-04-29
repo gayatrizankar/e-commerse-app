@@ -1,0 +1,32 @@
+[
+  {
+      "id": 1,
+      "name": "Classic Cotton T-Shirt",
+      "description": "A soft, breathable cotton t-shirt perfect for everyday wear. Available in multiple colors.",
+      "image": "/images/b7 (1).jpg"
+  },
+  {
+      "id": 2,
+      "name": "Slim Fit Denim Jeans",
+      "description": "Stylish slim-fit jeans made from high-quality denim. Comfortable and durable for daily use.",
+      "image": "/images/b2 (1).jpg"
+  },
+  {
+      "id": 3,
+      "name": "Premium Hoodie",
+      "description": "A warm and cozy hoodie with a modern fit. Great for casual outings and winter wear.",
+      "image": "/images/b4 (1).jpg"
+  },
+  {
+      "id": 4,
+      "name": "Formal Blazer",
+      "description": "A sleek and elegant blazer, ideal for office wear and formal events. Made from premium fabric.",
+      "image": "/images/b1 (1).jpg"
+  },
+  {
+      "id": 5,
+      "name": "Running Sneakers",
+      "description": "Lightweight and comfortable running shoes with excellent grip and support. Perfect for athletes.",
+      "image": "/images/b3.jpg"
+  }
+]
